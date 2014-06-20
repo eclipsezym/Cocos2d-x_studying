@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="4" environment="org.eclipse.dltk.core.environment.localEnvironment">
+  <entries path="/Users/ZhangYueming/Documents/Github/Lua_studying/cocos2d-x-3.1.1/project/Lua_studying/Resources/src/main.lua" timestamp="1401602578000" lastAccessTime="1401602580236"/>
+  <entries path="/Users/ZhangYueming/Documents/Github/Lua_studying/cocos2d-x-3.1.1/project/Lua_studying/Resources/src" timestamp="1401602578000" lastAccessTime="1401602580236">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/95675783/1.idx"/>
+  </entries>
+  <entries path="/Users/ZhangYueming/Documents/Github/Lua_studying/cocos2d-x-3.1.1/project/Lua_studying/Lua_studying/src/main.lua" timestamp="1401602624000" lastAccessTime="1401602624815"/>
+  <entries path="/Users/ZhangYueming/Documents/Github/Lua_studying/cocos2d-x-3.1.1/project/Lua_studying/Lua_studying/src" timestamp="1401602624000" lastAccessTime="1401602624815">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/1638665265/3.idx"/>
+  </entries>
+</cache:CacheIndex>

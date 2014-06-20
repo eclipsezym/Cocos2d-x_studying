@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EDC1F673-700E-49C5-A030-08028E15E1FB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Lua_studying</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B7760EF2-844F-4947-B59D-1E3AF0B7F151</key>
+		<string>https://github.com/eclipsezym/Lua_studying.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cocos2d-x-3.1.1/project/Lua_studying/frameworks/runtime-src/proj.ios_mac/Lua_studying.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B7760EF2-844F-4947-B59D-1E3AF0B7F151</key>
+		<string>../../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/eclipsezym/Lua_studying.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B7760EF2-844F-4947-B59D-1E3AF0B7F151</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B7760EF2-844F-4947-B59D-1E3AF0B7F151</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Lua_studying</string>
+		</dict>
+	</array>
+</dict>
+</plist>

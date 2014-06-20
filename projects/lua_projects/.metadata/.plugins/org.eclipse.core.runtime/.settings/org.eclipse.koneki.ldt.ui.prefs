@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+formatter.indentation.indentTables=true
+formatter.indentation.size=4
+formatter.profiles.active=org.eclipse.dltk.lua.formatter.profiles.default
+formatter.tabulation.char=space
+formatter.tabulation.size=4
+formatterId=org.eclipse.koneki.ldt.editor.LuaFormatterFactory
+sourceHoverBackgroundColor=250,251,197
+sourceHoverBackgroundColor.SystemDefault=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

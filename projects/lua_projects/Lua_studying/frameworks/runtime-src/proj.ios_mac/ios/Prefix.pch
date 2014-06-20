@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Lua_studying' target in the 'Lua_studying' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif

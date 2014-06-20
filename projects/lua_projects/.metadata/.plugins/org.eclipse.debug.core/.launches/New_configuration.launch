@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.ccdt.lua.debug.cocosluadebug">
+<mapAttribute key="android">
+<mapEntry key="android.host" value=""/>
+<mapEntry key="android.launch_activity" value="org.cocos2dx.lua.AppActivity"/>
+<mapEntry key="android.package_name" value="org.cocos2dx.PrebuiltRuntimeLua"/>
+<mapEntry key="android.runtime_path" value="runtime/android/PrebuiltRuntimeLua.apk"/>
+<mapEntry key="android.use_adb" value="false"/>
+<mapEntry key="target_id" value="false"/>
+</mapAttribute>
+<stringAttribute key="dbgp.port" value="10000"/>
+<stringAttribute key="dbgp_session_id" value="luaidekey"/>
+<intAttribute key="dbpg_waiting_timeout" value="30000"/>
+<booleanAttribute key="enableBreakOnFirstLine" value="false"/>
+<booleanAttribute key="enableDbgpLogging" value="false"/>
+<mapAttribute key="ios">
+<mapEntry key="ios.host" value=""/>
+<mapEntry key="ios.runtime_path" value="runtime/ios/PrebuiltRuntimeLua.app"/>
+<mapEntry key="ios.simulator_family" value="iPhone Retina (3.5-inch)"/>
+<mapEntry key="ios.use_simulator" value="true"/>
+<mapEntry key="target_id" value="false"/>
+</mapAttribute>
+<mapAttribute key="mac">
+<mapEntry key="mac.runtime_path" value="runtime/mac/PrebuiltRuntimeLua.app"/>
+<mapEntry key="target_id" value="true"/>
+</mapAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Lua_studying"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+<stringAttribute key="project" value="Lua_studying"/>
+<stringAttribute key="target_id" value="mac"/>
+</launchConfiguration>

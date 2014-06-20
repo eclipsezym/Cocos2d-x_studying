@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0F4D9D31-49CD-4BBF-BA8F-64EB70887510</string>
+	<key>IDESourceControlProjectName</key>
+	<string>cpp-study</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7D2F8BBC-A978-4439-BEE8-0CE80E8DE6F7</key>
+		<string>https://github.com/eclipsezym/Cocos2d-x_studying.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cocos2d-x-3.1.1/projects/cpp_projects/cpp-study/proj.ios_mac/cpp-study.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7D2F8BBC-A978-4439-BEE8-0CE80E8DE6F7</key>
+		<string>../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/eclipsezym/Cocos2d-x_studying.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7D2F8BBC-A978-4439-BEE8-0CE80E8DE6F7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7D2F8BBC-A978-4439-BEE8-0CE80E8DE6F7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Cocos2d-x_studying</string>
+		</dict>
+	</array>
+</dict>
+</plist>

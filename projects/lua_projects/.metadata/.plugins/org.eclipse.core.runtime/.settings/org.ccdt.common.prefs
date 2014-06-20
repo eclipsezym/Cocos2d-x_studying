@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+org.ccdt.common.jdk_path=/usr/bin
+org.ccdt.common.lua_engine_custompath=/Users/ZhangYueming/Documents/Github/Lua_studying/cocos2d-x-3.1.1
+org.ccdt.common.lua_engine_path=/Users/ZhangYueming/Documents/Github/Lua_studying/cocos2d-x-3.1.1
+org.ccdt.common.python_path=/System/Library/Frameworks/Python.framework/Versions/2.7/bin
+org.ccdt.common.sdk_path=/Users/ZhangYueming/Desktop/Work/android-sdk-macosx
