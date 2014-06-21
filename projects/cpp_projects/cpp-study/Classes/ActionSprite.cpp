@@ -89,7 +89,7 @@ Animation *ActionSprite::createAnimation(const char *fmt, int count, float fps)
 {
     Vector<SpriteFrame*> frames;
 
-    for (int i = 0; i < count; i++) {
+    for (int i = 0; i < count; i++) {//这是一个test
         const char *png = String::createWithFormat(fmt, i)->getCString();
         SpriteFrame *frame = SpriteFrameCache::getInstance()->getSpriteFrameByName(png);
         frames.pushBack(frame);
