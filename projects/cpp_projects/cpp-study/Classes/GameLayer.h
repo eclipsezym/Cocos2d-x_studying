@@ -32,6 +32,7 @@ public:
     
     
     void update(float dt);
+    void draw(cocos2d::Renderer *renderer, const cocos2d::Mat4 &transform, bool transformUpdated);
     
 private:
     cocos2d::TMXTiledMap *_map;

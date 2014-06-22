@@ -60,13 +60,24 @@ bool GameLayer::init()
 void GameLayer::onAttack()
 {
     _hero->attack();
+    
+//    auto robot = _robots.begin();
+//    while (robot != _robots.end()) {
+//        if (_hero->boundingBox()) {
+//            <#statements#>
+//        }
+//
+//        robot++;
+//    }
+
+    
 }
 
 void GameLayer::onWalk(cocos2d::Point direction, float distance)
 {
     _hero->setFlippedX(direction.x < 0 ? true : false);
     _hero->walk();
-    _heroVelocity = direction * (distance < 96 ? 1 : 2);
+    _heroVelocity = direction * (distance < 96 ? 2 : 4);
 }
 
 void GameLayer::onStop()
@@ -77,10 +88,15 @@ void GameLayer::onStop()
 
 void GameLayer::update(float dt)
 {
-    printf("update");
     if (_hero->getActionState() == ACTION_STATE_WALK) {
         _hero->setPosition(_hero->getPosition() + _heroVelocity);
     }
+}
+
+void GameLayer::draw(cocos2d::Renderer *renderer, const cocos2d::Mat4 &transform, bool transformUpdated)
+{
+
+    update(0);
 }
 
 
